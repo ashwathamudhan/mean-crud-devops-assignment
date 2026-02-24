@@ -1,4 +1,3 @@
-mongoose.connect(process.env.MONGO_URL, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
-})
+module.exports = {
+  url: process.env.MONGO_URL
+};
