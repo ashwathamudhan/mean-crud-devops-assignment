@@ -1,3 +1,4 @@
-module.exports = {
-  url: "mongodb://localhost:27017/dd_db"
-};
+mongoose.connect(process.env.MONGO_URL, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true
+})
