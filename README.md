@@ -76,5 +76,5 @@ Pulled images from Docker Hub
 
 
 🙋‍♂️ Author
-Ashwath Amudhan C A
-Aspiring DevOps & Cloud Engineer
+- Ashwath Amudhan C A
+- Aspiring DevOps & Cloud Engineer
