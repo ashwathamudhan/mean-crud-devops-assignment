@@ -27,6 +27,13 @@ As part of the DevOps task, I was required to:
   - SSH into EC2
   - Pulls latest images & restarts containers
 
+Browser
+  |
+ NGINX (port 80)
+  |------> Frontend (Angular)
+  |------> /api --> Backend (Node.js)
+                          |
+                        MongoDB
 ---
 
 ## 🚀 What I Implemented
